@@ -1,5 +1,4 @@
 package com.backend.tarea.model;
-
 import jakarta.persistence.*;
 
 @Entity
