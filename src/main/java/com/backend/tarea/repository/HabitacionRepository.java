@@ -1,5 +1,4 @@
 package com.backend.tarea.repository;
-
 import com.backend.tarea.model.Habitacion;
 import org.springframework.data.jpa.repository.JpaRepository;
 
