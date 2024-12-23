@@ -4,7 +4,6 @@
  */
 
 package com.backend.tarea.model;
-
 import jakarta.persistence.*;
 import java.time.LocalDate;
 
