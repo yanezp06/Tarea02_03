@@ -5,7 +5,6 @@
 
 package com.backend.tarea.repository;
 
-
 import com.backend.tarea.model.Usuario;
 import org.springframework.data.jpa.repository.JpaRepository;
 
