@@ -1,6 +1,4 @@
 package com.backend.tarea;
-
-
 import com.backend.tarea.model.Usuario;
 import com.backend.tarea.repository.UsuarioRepository;
 import com.backend.tarea.service.UsuarioService;
